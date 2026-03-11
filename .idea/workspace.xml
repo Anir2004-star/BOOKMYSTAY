@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f080bb8-e9e0-4b85-aff9-091c32e6959a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/UseCaseBookMyStay.java" beforeDir="false" afterPath="$PROJECT_DIR$/UseCaseBookMyStay.java" afterDir="false" />
-    </list>
+    <list default="true" id="4f080bb8-e9e0-4b85-aff9-091c32e6959a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +73,7 @@
       <updated>1773217763786</updated>
       <workItem from="1773217766939" duration="3282000" />
       <workItem from="1773221109164" duration="25000" />
-      <workItem from="1773221149189" duration="333000" />
+      <workItem from="1773221149189" duration="634000" />
     </task>
     <servers />
   </component>
